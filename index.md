@@ -20,8 +20,8 @@ I am a software engineer working on an open-access, programmable financial syste
 
 ## Latest from me:
 
-- I am on a 100 day sabbatical from 1st May 2019 to learn [DeFi](https://tokeneconomy.co/defi-vs-fintech-d152bae2585c) and blockchain.
-- Inspired by [@swyx's](https://www.swyx.io/) [Learn In Public](https://www.swyx.io/writing/learn-in-public/), I'll be  creating tutorials and video explainers as I go along
-- Building simple prototypes of financial products using smart contracts
-- Based in Berlin with the [Parity](https://www.parity.io/) team (thanks for hosting me!)
+- :calendar: I am on a 100 day sabbatical from 1st May 2019 to learn [DeFi](https://tokeneconomy.co/defi-vs-fintech-d152bae2585c) and blockchain.
+- :movie_camera: Inspired by [@swyx's](https://www.swyx.io/) [Learn In Public](https://www.swyx.io/writing/learn-in-public/), I'll be creating tutorials and video explainers as I go along
+- :bank: I'll be building simple prototypes of financial products  using smart contracts
+- :de: Based in Berlin with the [Parity](https://www.parity.io/) team (thanks for hosting me!)
 
