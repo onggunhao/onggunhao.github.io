@@ -9,49 +9,19 @@ permalink: /
 # Hi, I'm Daniel!
 {: .fs-9 }
 
-I am a software engineer working on an open-access, programmable financial system. I [learn in public](https://www.swyx.io/writing/learn-in-public/) and build in public.
+I am a software engineer working on an open-access, programmable financial system. Previously: CTO [@Dana Cita](http://danacita.co.id), good cop, CS [@Stanford](http://stanford.edu/).
 {: .fs-6 .fw-300 }
 
-[Github](http://github.com/onggunhao){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Twitter](https://twitter.com/onggunhao){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Linkedin](https://www.linkedin.com/in/danielong/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Github](http://github.com/onggunhao){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Twitter](https://twitter.com/onggunhao){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Linkedin](https://www.linkedin.com/in/danielong/){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
-## Welcome to GitHub Pages
+## Latest from me:
 
-You can use the [editor on GitHub](https://github.com/onggunhao/onggunhao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- I am on a 100 day sabbatical from 1st May 2019 to learn [DeFi](https://tokeneconomy.co/defi-vs-fintech-d152bae2585c) and blockchain.
+- Inspired by [@swyx's](https://www.swyx.io/) [Learn In Public](https://www.swyx.io/writing/learn-in-public/), I'll be  creating tutorials and video explainers as I go along
+- Building simple prototypes of financial products using smart contracts
+- Based in Berlin with the [Parity](https://www.parity.io/) team (thanks for hosting me!)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/onggunhao/onggunhao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
